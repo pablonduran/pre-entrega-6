@@ -1,0 +1,8 @@
+langchain==1.4.5
+langchain-core==1.6.10
+langgraph==1.2.15
+langchain-google-genai==4.4.2
+langchain-openai==1.7.1
+langchain-anthropic==1.7.6
+pydantic==2.14.1
+python-dotenv==1.2.4
